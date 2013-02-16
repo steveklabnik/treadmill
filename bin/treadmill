@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require 'treadmill'
+
+puts "does this work?"
+
+puts 2 + 3
